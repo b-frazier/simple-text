@@ -26,6 +26,11 @@ module.exports = () => {
         title: 'Simple Text',
       }),
 
+      new InjectManifest({
+        swSrc: './src-sw.js',
+        swDest: 'src-sw.js',
+      })
+
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
