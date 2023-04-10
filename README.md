@@ -18,7 +18,8 @@ Click the 'install' button.
 
 ## Usage
 
-This can be used to write and save code on the go.
+This can be used to write and save code on the go.<br>
+Find the app here: https://simple-text.herokuapp.com/
 
 ## Screenshots
 
